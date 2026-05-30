@@ -1,6 +1,9 @@
 # 🏗️ Text-to-KG SLM — UK Construction Contract Knowledge Graph Extraction
 
 > **Fine-tuning Phi-3.5 Mini Instruct and Gemma 2 2B IT with LoRA and QLoRA on verified UK Open Contracting data to extract structured RDF knowledge graph triples from procurement contract text — achieving ZERO hallucination.**
+>
+> > ## 📌 These notebooks were developed in Google Colab. To view them properly, open via [nbviewer](https://nbviewer.org) or run directly in [Google Colab](https://colab.research.google.com).
+
 
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-BSVGK-blue)](https://huggingface.co/BSVGK)
 [![Dataset](https://img.shields.io/badge/Dataset-Text__to__KG__Construction__Dataset-green)](https://huggingface.co/datasets/BSVGK/Text_to_KG_Construction_Dataset)
