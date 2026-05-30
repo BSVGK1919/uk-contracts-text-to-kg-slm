@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+*.log
+*.zip
+*.tar.gz
+.ipynb_checkpoints/
+.pytest_cache/
